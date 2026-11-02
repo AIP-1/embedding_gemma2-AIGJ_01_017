@@ -1,0 +1,9 @@
+# 실행 부산물과 대용량 파일은 올리지 않는다
+__pycache__/
+*.pyc
+models/
+*.pt
+*.npz
+crops/
+media/
+*.log
